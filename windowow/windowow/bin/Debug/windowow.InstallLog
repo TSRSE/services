@@ -1,0 +1,32 @@
+﻿Выполняется установка сборки 'C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe
+   logfile = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.InstallLog
+Устанавливается служба s1lv3r...
+Создается исходный EventLog s1lv3r в журнале Application...
+Выполняется откат для сборки 'C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe
+   logfile = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.InstallLog
+Восстанавливается исходное состояние журнала событий для источника s1lv3r.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe
+   logfile = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.InstallLog
+Устанавливается служба s1lv3r...
+Создается исходный EventLog s1lv3r в журнале Application...
+Выполняется откат для сборки 'C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe
+   logfile = C:\Users\unium\source\repos\windowow\windowow\bin\Debug\windowow.InstallLog
+Восстанавливается исходное состояние журнала событий для источника s1lv3r.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.

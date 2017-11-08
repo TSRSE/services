@@ -1,0 +1,7 @@
+c:\users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe.config
+c:\users\unium\source\repos\windowow\windowow\bin\Debug\windowow.exe
+c:\users\unium\source\repos\windowow\windowow\bin\Debug\windowow.pdb
+c:\users\unium\source\repos\windowow\windowow\obj\Debug\winh00k.csprojResolveAssemblyReference.cache
+c:\users\unium\source\repos\windowow\windowow\obj\Debug\winh00k.csproj.CoreCompileInputs.cache
+c:\users\unium\source\repos\windowow\windowow\obj\Debug\windowow.exe
+c:\users\unium\source\repos\windowow\windowow\obj\Debug\windowow.pdb
